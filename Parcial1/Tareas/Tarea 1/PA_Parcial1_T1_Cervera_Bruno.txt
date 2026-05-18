@@ -1,0 +1,9 @@
+Bruno Cervera Espinosa
+
+Caso 9
+Un buscador simple indexa las palabras de un conjunto de documentos y registra cuántas veces aparece cada palabra y en qué documentos. 
+El sistema permite consultar la frecuencia de cualquier palabra de forma instantánea y genera un ranking de las palabras más frecuentes.
+
+
+Video:
+https://drive.google.com/file/d/1bR2PtlUOJapI7Q-_EnQaFomWY4zM0ipt/view?usp=sharing
